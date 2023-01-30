@@ -21,4 +21,5 @@ jobs:
             .github/labels.json
           repositories: |
             Ineduco/doc-faq-customer
+            Ineduco/doc-general
             Ineduco/stk-base
