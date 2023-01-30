@@ -1,0 +1,142 @@
+[
+  {
+    "name": "good first issue",
+    "description": "Is a good starting point for a new contributor to the project.",
+    "color": "7f0799"
+  },
+  {
+    "name": "help wanted",
+    "description": "Issue requires assistance from others in order to be completed.",
+    "color": "7f0799"
+  },
+  {
+    "name": "⛔️ status: discarded",
+    "description": "Issue has been discarded and is no longer being worked on.",
+    "color": "eeeeee"
+  },
+  {
+    "name": "✨ goal: improvement",
+    "description": "Issue is focused on improving an existing feature or aspect of the project.",
+    "color": "ffffff"
+  },
+  {
+    "name": "🚀 goal: feature",
+    "description": "Issue is focused on adding a new feature or aspect to the project.",
+    "color": "ffffff"
+  },
+  {
+    "name": "❓ talk: question",
+    "description": "Issue requires clarification or additional information.",
+    "color": "f9bbe5"
+  },
+  {
+    "name": "🏁 status: ready for dev",
+    "description": "Issue has been reviewed and is ready for development.",
+    "color": "cccccc"
+  },
+  {
+    "name": "💬 talk: discussion",
+    "description": "Issue requires discussion or input from others.",
+    "color": "f9bbe5"
+  },
+  {
+    "name": "💻 aspect: code",
+    "description": "Issue relates to the code of the project.",
+    "color": "04338c"
+  },
+  {
+    "name": "📄 aspect: text",
+    "description": "Issue relates to text or documentation.",
+    "color": "04338c"
+  },
+  {
+    "name": "🔒 staff only",
+    "description": "Issue is only visible to staff members and not the general public.",
+    "color": "7f0799"
+  },
+  {
+    "name": "🕹 aspect: interface",
+    "description": "Issue relates to the interface of the project.",
+    "color": "04338c"
+  },
+  {
+    "name": "🚦 status: awaiting triage",
+    "description": "Issue is waiting to be triaged, or reviewed and prioritized.",
+    "color": "333333"
+  },
+  {
+    "name": "🚧 status: blocked",
+    "description": "Issue is blocked by another issue or dependency.",
+    "color": "999999"
+  },
+  {
+    "name": "🛠 goal: Bugfix",
+    "description": "Issue is focused on fixing a problem or bug.",
+    "color": "ffffff"
+  },
+  {
+    "name": "🟥 priority: critical",
+    "description": "Issue is of the highest priority and needs to be addressed immediately.",
+    "color": "b60205"
+  },
+  {
+    "name": "🟧 priority: high",
+    "description": "Task or item has a high priority and should be given immediate attention.",
+    "color": "ff9f1c"
+  },
+  {
+    "name": "🟨 priority: medium",
+    "description": "Task or item has a medium priority and should be given attention in a timely manner.",
+    "color": "ffcc00"
+  },
+  {
+    "name": "🟩 priority: low",
+    "description": "Task or item has a low priority and can be given attention at a lower priority.",
+    "color": "cfda2c"
+  },
+  {
+    "name": "🤖 aspect: dx",
+    "description": "Task or item is related to the development experience.",
+    "color": "04338c"
+  },
+  {
+    "name": "🧹 status: ticket work required",
+    "description": "This label",
+    "color": "666666"
+  },
+  {
+    "name": "🔢 points: 1",
+    "description": "Point value of a task or item, with the number indicating the value.",
+    "color": "62A1A6"
+  },
+  {
+    "name": "🔢 points: 2",
+    "description": "Point value of a task or item, with the number indicating the value.",
+    "color": "62A1A6"
+  },
+  {
+    "name": "🔢 points: 3",
+    "description": "Point value of a task or item, with the number indicating the value.",
+    "color": "62A1A6"
+  },
+  {
+    "name": "🔢 points: 5",
+    "description": "Point value of a task or item, with the number indicating the value.",
+    "color": "62A1A6"
+  },
+  {
+    "name": "🔢 points: 8",
+    "description": "Point value of a task or item, with the number indicating the value.",
+    "color": "62A1A6"
+  },
+  {
+    "name": "🔢 points: 13",
+    "description": "Point value of a task or item, with the number indicating the value.",
+    "color": "62A1A6"
+  },
+  {
+    "name": "need: UX consultation",
+    "description": "Need ux consultation",
+    "color": "#CA29DF"
+  }
+]
